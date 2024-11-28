@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6747fe09cb9eb1f67f0d8193"
+  },
+  "courseId": "C101",
+  "name": "Data Science",
+  "duration": "3 months"
+},
+{
+  "_id": {
+    "$oid": "6747fe09cb9eb1f67f0d8194"
+  },
+  "courseId": "C102",
+  "name": "Machine Learning",
+  "duration": "4 months"
+}]

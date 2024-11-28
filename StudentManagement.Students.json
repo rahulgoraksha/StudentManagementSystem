@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6747fddecb9eb1f67f0d8190"
+  },
+  "studentId": 1,
+  "name": "Rahul",
+  "age": 23,
+  "email": "rahul@example.com"
+},
+{
+  "_id": {
+    "$oid": "6747fddecb9eb1f67f0d8191"
+  },
+  "studentId": 2,
+  "name": "Dhanesh",
+  "age": 22,
+  "email": "dhanesh@example.com"
+},
+{
+  "_id": {
+    "$oid": "6747fddecb9eb1f67f0d8192"
+  },
+  "studentId": 3,
+  "name": "Sarvesh",
+  "age": 24,
+  "email": "sarvesh@example.com"
+},
+{
+  "_id": {
+    "$oid": "6747fea7cb9eb1f67f0d8199"
+  },
+  "studentId": 4,
+  "name": "Anjali",
+  "age": 24,
+  "email": "anjali@example.com"
+}]
